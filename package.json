@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "live-server --entry-file=index.html"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
